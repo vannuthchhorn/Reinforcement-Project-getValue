@@ -1,0 +1,40 @@
+body{
+    background-color:teal;
+}
+.container{
+    width: 1000px;
+    margin-top: 100px;
+}
+.content{
+    margin-left: 400px;
+}
+#filter,#add{
+    padding: 8px;
+    width: 400px;
+    border-radius: 4px;
+    border: none;
+}
+#short,#addNew{
+    width: 80px;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+}
+#show{
+    width: 461px;
+    background-color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+li{
+    list-style-type: none;
+}
+p{
+    font-family: sans-serif;
+    font-size: 22px;
+    color: teal;
+}
+i{
+    color: red;
+}
